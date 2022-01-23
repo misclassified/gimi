@@ -7,6 +7,7 @@ import pandas as pd
 import numpy as np
 from pyproj import Proj, transform
 from shapely.geometry import shape
+import shapely
 
 
 
